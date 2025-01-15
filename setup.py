@@ -5,7 +5,6 @@ setup(
     version="0.6.0",
     packages=find_packages(),
     install_requires=[
-        "﻿aiohappyeyeballs==2.4.4",
         "aiohttp==3.11.11",
         "aiosignal==1.3.2",
         "aiosqlite==0.20.0",
