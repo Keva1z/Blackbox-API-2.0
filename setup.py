@@ -5,25 +5,25 @@ setup(
     version="0.6.0",
     packages=find_packages(),
     install_requires=[
-        "﻿aiohappyeyeballs==2.4.4"
-        "aiohttp==3.11.11"
-        "aiosignal==1.3.2"
-        "aiosqlite==0.20.0"
-        "attrs==24.3.0"
-        "Brotli==1.1.0"
-        "certifi==2024.12.14"
-        "charset-normalizer==3.4.1"
-        "frozenlist==1.5.0"
-        "greenlet==3.1.1"
-        "idna==3.10"
-        "multidict==6.1.0"
-        "pillow==11.1.0"
-        "propcache==0.2.1"
-        "requests==2.32.3"
-        "SQLAlchemy==2.0.37"
-        "typing_extensions==4.12.2"
-        "urllib3==2.3.0"
-        "yarl==1.18.3"
+        "﻿aiohappyeyeballs==2.4.4",
+        "aiohttp==3.11.11",
+        "aiosignal==1.3.2",
+        "aiosqlite==0.20.0",
+        "attrs==24.3.0",
+        "Brotli==1.1.0",
+        "certifi==2024.12.14",
+        "charset-normalizer==3.4.1",
+        "frozenlist==1.5.0",
+        "greenlet==3.1.1",
+        "idna==3.10",
+        "multidict==6.1.0",
+        "pillow==11.1.0",
+        "propcache==0.2.1",
+        "requests==2.32.3",
+        "SQLAlchemy==2.0.37",
+        "typing_extensions==4.12.2",
+        "urllib3==2.3.0",
+        "yarl==1.18.3",
         "setuptools==75.8.0"
     ],
     python_requires=">=3.8",
